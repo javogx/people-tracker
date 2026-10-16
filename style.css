@@ -1,6 +1,6 @@
 @font-face {
     font-family: lotek;
-    src: url("fonts/BarberChop.otf");
+    src: url("BarberChop.otf");
 }
 
 
@@ -8,7 +8,7 @@
 
 
 body {
-    background-image: url("images/imagee.jpg");
+    background-image: url("imagee.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
